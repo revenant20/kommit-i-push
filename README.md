@@ -7,3 +7,4 @@
 ## Песни
 
 - [Забытый бот](songs/zabytyy-bot/) — folk punk, 174 BPM
+- [Go есть?](songs/go-est/) — hip-hop bounce, 95 BPM

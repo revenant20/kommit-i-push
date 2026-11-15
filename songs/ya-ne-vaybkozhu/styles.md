@@ -1,0 +1,3 @@
+# Я не вайбкожу — стили
+
+Russian lo-fi garage rock, raw underground rehearsal room recording, casual unpolished sound, close-mic stacked harmonies on the hooks in tight, dry unison-like layers with subtle layered octave doubles; 125 BPM, steady backbeat; simple repetitive distorted guitar riff, steady live drums, dirty bass guitar; deadpan male spoken vocals, low-mid register, almost entirely spoken word with talk-singing inflections, flat conversational vocal delivery, dry sarcastic storytelling, understated black comedy, minimal melody, verses and choruses in the same restrained tone, short instrumental breaks, abrupt ending

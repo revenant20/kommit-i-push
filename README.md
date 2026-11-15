@@ -17,3 +17,4 @@
 - [Личный кабинет](songs/lichnyy-kabinet/) — horror punk / underground rap, 124 BPM
 - [Слыш](songs/slysh/) — indie folk / lo-fi acoustic, 95 BPM
 - [Ультимативная сборка](songs/ultimativnaya-sborka/) — indie folk / lo-fi acoustic, 95 BPM
+- [Я не вайбкожу](songs/ya-ne-vaybkozhu/) — lo-fi garage rock, 125 BPM
